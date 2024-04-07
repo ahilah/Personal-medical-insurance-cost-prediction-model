@@ -1,3 +1,4 @@
+# for gradient boosting regressor
 params = {
     'learning_rate': 0.1,
     'max_depth': 3,
