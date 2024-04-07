@@ -1,6 +1,6 @@
 # Personal Medical Insurance Cost Prediction
 
-## [[Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)] description features
+## [Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) description features
 - age: age of primary beneficiary.
 - sex: insurance contractor gender (female/male).
 - bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9.
